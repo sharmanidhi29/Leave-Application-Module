@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+packages/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# IIS Express
+/.vs/*
+
+# Others
+*.log
+*.DS_Store
+node_modules/
